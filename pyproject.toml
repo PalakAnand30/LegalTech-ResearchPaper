@@ -1,0 +1,18 @@
+[project]
+name = "lightning-ai-palak"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "faiss-cpu>=1.11.0",
+    "ipykernel>=6.29.5",
+    "ipywidgets>=8.1.7",
+    "jupyter>=1.1.1",
+    "pandas>=2.3.0",
+    "scikit-learn>=1.7.0",
+    "sentence-transformers>=4.1.0",
+    "torch>=2.7.1",
+    "tqdm>=4.67.1",
+    "transformers>=4.52.4",
+]
